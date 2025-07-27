@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone 👋, I'm Aditya Jaiswal</h1>
+<h1 align="center">Hey Everyone 👋, I'm Vaibhav Tiwari</h1>
 
 <div align="center">
   <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png" alt="DevOpsShack Banner">
@@ -8,7 +8,7 @@
 <p align="center">💼 I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOpsShack</a></p>
 
 <p align="center">
-  <a href="https://github.com/jaiswaladi246">
+  <a href="https://github.com/how-vaibhav">
     <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
   </a>
   <a href="https://www.youtube.com/@devopsshack">
@@ -63,7 +63,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
 </p>
@@ -73,32 +72,26 @@
 ### 📊 GitHub Stats (Dark Mode)
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswaladi246&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=how-vaibhav&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaiswaladi246&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=how-vaibhav&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 🔥 GitHub Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jaiswaladi246&theme=github-dark-blue&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=how-vaibhav&theme=github-dark-blue&hide_border=true)
 
 ---
 
 ### 🚀 Top Contributed Repositories
 
-![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=how-vaibhav&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 ---
 
-### 👨‍💼 About Me & 🤝 Collaborations
-
-🎤 Available for **Guest Sessions / Webinars**  
-🤝 Open to **Project Collaborations / YouTube Collabs**  
-💼 Offering **DevOps Consulting / Mentorship**  
-📧 Let’s connect: [office@devopsshack.com](mailto:office@devopsshack.com)
 
 > *"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
