@@ -3,16 +3,22 @@
 <h3 align="center">🚀 A passionate CSE student from India</h3>
 
 <p align="center">
-  <a href="https://github.com/how-vaibhav">
-    <img src="https://img.shields.io/github/followers/how-vaibhav?label=Follow&style=social" />
+  <!-- GitHub Follow Badge -->
+  <a href="https://github.com/how-vaibhav" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/github/followers/how-vaibhav?label=Follow&logo=github&style=flat-square&color=333" alt="GitHub Followers" />
   </a>
-  <a href="https://www.youtube.com/@how-vaibhav">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=social" />
+
+  <!-- YouTube Subscribe Badge -->
+  <a href="https://www.youtube.com/@how-vaibhav" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=flat-square" alt="YouTube Channel" />
   </a>
-  <a href="https://www.linkedin.com/in/how-vaibhav/">
-    <img src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Tiwari-blue?logo=linkedin&style=flat-square" />
+
+  <!-- LinkedIn Connect Badge -->
+  <a href="https://www.linkedin.com/in/how-vaibhav/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square" alt="LinkedIn Profile" />
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=how-vaibhav&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
