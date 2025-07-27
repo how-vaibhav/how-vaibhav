@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Abhigya Dulal
+# 👋 Hello World! I'm Vaibhav Tiwari
 
 **Aspiring Developer | Tech Enthusiast | Lifelong Learner**
 
@@ -45,8 +45,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SkylerOnRadio&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkylerOnRadio&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=how-vaibhav&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=how-vaibhav&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -54,10 +54,10 @@
 ## 🌍 Connect With Me
 
 <p>
-  <a href="mailto:abhiyadulal@gmail.com">
+  <a href="mailto:vaibhavtiwari10505@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/abhigya-dulal-64291a356" target="_blank">
+  <a href="www.linkedin.com/in/how-vaibhav" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
