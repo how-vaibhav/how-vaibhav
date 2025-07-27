@@ -5,16 +5,16 @@
 </div>
 
 <h3 align="center">🚀 A passionate DevOps Engineer from India</h3>
-<p align="center">💼 I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOpsShack</a></p>
+<p align="center">💼 I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@how-vaibhav" target="_blank">DevOpsShack</a></p>
 
 <p align="center">
   <a href="https://github.com/how-vaibhav">
     <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
   </a>
-  <a href="https://www.youtube.com/@devopsshack">
+  <a href="https://www.youtube.com/@how-vaibhav">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
   </a>
-  <a href="https://linkedin.com/in/adityajaiswal7">
+  <a href="www.linkedin.com/in/how-vaibhav">
     <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
@@ -23,22 +23,20 @@
   <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 👨‍💻 All my projects are available at: [github.com/jaiswaladi246](https://github.com/jaiswaladi246)  
-- 💬 Ask me about: **DevOps, Cloud, CI/CD, Infrastructure as Code**  
-- 📫 Reach me at: **office@devopsshack.com**
+- 📫 Reach me at: **myWebsite.com**
 
 ---
 
 ### 🔗 Connect with Me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/adityajaiswal7" target="blank">
+  <a href="www.linkedin.com/in/how-vaibhav" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/devopsshack" target="blank">
+  <a href="https://instagram.com/how_vaibhav" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="blank">
+  <a href="https://www.youtube.com/@how-vaibhav" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
   </a>
 </p>
@@ -75,7 +73,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=how-vaibhav&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=how-vaibhav&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
