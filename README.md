@@ -91,4 +91,4 @@
 ---
 
 
-> *"Driven by curiosity, I am on a journey of perpetual growth, committed to turning complex challenges into elegant, impactful solutions."*
+> *"Driven by curiosity, on a journey of perpetual growth, committed to turning complex challenges into elegant, impactful solutions."*
