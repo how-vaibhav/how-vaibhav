@@ -91,4 +91,4 @@
 ---
 
 
-> *"Continuously refining my craft and building what's next."*
+> *"Driven by curiosity, I am on a journey of perpetual growth, committed to turning complex challenges into elegant, impactful solutions."*
