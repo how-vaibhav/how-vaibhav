@@ -4,15 +4,14 @@
   <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png" alt="DevOpsShack Banner">
 </div>
 
-<h3 align="center">🚀 A passionate DevOps Engineer from India</h3>
-<p align="center">💼 I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@how-vaibhav" target="_blank">DevOpsShack</a></p>
+<h3 align="center">🚀 A passionate CSE student from India</h3>
 
 <p align="center">
   <a href="https://github.com/how-vaibhav">
     <img src="https://img.shields.io/github/followers/how-vaibhav?label=Follow&style=social" />
   </a>
   <a href="https://www.youtube.com/@how-vaibhav">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
+   
   </a>
   <a href="https://www.linkedin.com/in/how-vaibhav/">
     <img src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Tiwari-blue?logo=linkedin&style=flat-square" />
