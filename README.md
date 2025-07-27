@@ -1,8 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Vaibhav Tiwari</h1>
 
-<div align="center">
-  <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png" alt="Vaibhav Tiwari Banner">
-</div>
 
 <h3 align="center">🚀 A passionate CSE student from India</h3>
 
@@ -81,11 +78,15 @@
 
 ---
 
-<img src="https://streak-stats.demolab.com?user=how-vaibhav&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
+### 🔥 GitHub Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=how-vaibhav&theme=github-dark-blue&hide_border=true)
 
 ---
 
-<img src="https://github-contributor-stats.vercel.app/api?username=how-vaibhav&limit=5&theme=github_dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
+### 🚀 Top Contributed Repositories
+
+![](https://github-contributor-stats.vercel.app/api?username=how-vaibhav&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 ---
 
