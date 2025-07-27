@@ -4,13 +4,13 @@
 
 <p align="center">
   <a href="https://github.com/how-vaibhav">
-    <img src="https://img.shields.io/github/followers/how-vaibhav?label=Follow&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/how-vaibhav?label=Follow&style=social" />
   </a>
   <a href="https://www.youtube.com/@how-vaibhav">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=social" alt="YouTube Channel" />
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=social" />
   </a>
   <a href="https://www.linkedin.com/in/how-vaibhav/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social" alt="LinkedIn Profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Tiwari-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
 
