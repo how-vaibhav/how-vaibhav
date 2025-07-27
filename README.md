@@ -81,15 +81,11 @@
 
 ---
 
-### 🔥 GitHub Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=how-vaibhav&theme=github-dark-blue&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=how-vaibhav&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
 
 ---
 
-### 🚀 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=how-vaibhav&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=how-vaibhav&limit=5&theme=github_dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
 
 ---
 
