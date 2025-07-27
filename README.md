@@ -30,7 +30,7 @@
 ### 🔗 Connect with Me:
 
 <p align="left">
-  <a href="www.linkedin.com/in/how-vaibhav" target="blank">
+  <a href="https://www.linkedin.com/in/how-vaibhav/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="https://instagram.com/how_vaibhav" target="blank">
