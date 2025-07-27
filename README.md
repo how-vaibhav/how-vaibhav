@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/followers/how-vaibhav?label=Follow&style=social" />
   </a>
   <a href="https://www.youtube.com/@how-vaibhav">
-   
+     <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
   </a>
   <a href="https://www.linkedin.com/in/how-vaibhav/">
     <img src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Tiwari-blue?logo=linkedin&style=flat-square" />
