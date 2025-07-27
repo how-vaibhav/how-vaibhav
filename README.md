@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
   </a>
   <a href="https://www.linkedin.com/in/how-vaibhav/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
+    <img src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Tiwari-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
 
