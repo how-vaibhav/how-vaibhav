@@ -1,8 +1,6 @@
 <h1 align="center">Hey Everyone 👋, I'm Vaibhav Tiwari</h1>
 
-<div align="center">
-  <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png" alt="Vaibhav Tiwari Banner">
-</div>
+
 
 <h3 align="center">🚀 A passionate CSE student from India</h3>
 
