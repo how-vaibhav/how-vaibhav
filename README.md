@@ -1,6 +1,8 @@
 <h1 align="center">Hey Everyone 👋, I'm Vaibhav Tiwari</h1>
 
-
+<div align="center">
+  <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png" alt="Vaibhav Tiwari Banner">
+</div>
 
 <h3 align="center">🚀 A passionate CSE student from India</h3>
 
@@ -64,15 +66,18 @@
 
 ---
 
-### 📊 GitHub Stats (Dark Mode)
+### 📊 GitHub Stats (Side-by-Side)
 
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=how-vaibhav&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=how-vaibhav&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=how-vaibhav&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=how-vaibhav&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 ---
 
