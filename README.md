@@ -98,15 +98,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
 
-  <!-- Frontend Frameworks -->
+  <!-- Frontend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="TailwindCSS"/>
 
   <!-- Backend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://cdn.simpleicons.org/express/000000" width="40" height="40" alt="Express"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
+  <img src="https://cdn.simpleicons.org/express/ffffff" width="40" height="40" alt="Express"/>
+  <img src="https://cdn.simpleicons.org/django/ffffff" width="40" height="40" alt="Django"/>
 
   <!-- Databases -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
@@ -116,11 +116,8 @@
   <!-- DevOps & Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.simpleicons.org/vercel/000000" width="40" height="40" alt="Vercel"/>
+  <img src="https://cdn.simpleicons.org/vercel/ffffff" width="40" height="40" alt="Vercel"/>
   <img src="https://cdn.simpleicons.org/linux/fcc624" width="40" height="40" alt="Linux"/>
-
-  <!-- AI / APIs -->
-  <img src="https://cdn.simpleicons.org/google/4285F4" width="40" height="40" alt="Google Gemini API"/>
 
 </p>
 
