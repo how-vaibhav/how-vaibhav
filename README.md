@@ -1,100 +1,125 @@
-<h1 align="center">Hey Everyone 👋, I'm Vaibhav Tiwari</h1>
-
-<h3 align="center">🚀 A passionate CSE student from India</h3>
-
-<p align="center">
-  <!-- GitHub Follow Badge -->
-  <a href="https://github.com/how-vaibhav" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/github/followers/how-vaibhav?label=Follow&logo=github&style=flat-square&color=333" alt="GitHub Followers" />
-  </a>
-
-  <!-- YouTube Subscribe Badge -->
-  <a href="https://www.youtube.com/@how-vaibhav" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=flat-square" alt="YouTube Channel" />
-  </a>
-
-  <!-- LinkedIn Connect Badge -->
-  <a href="https://www.linkedin.com/in/how-vaibhav/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square" alt="LinkedIn Profile" />
-  </a>
-</p>
-
+<h1 align="center">Vaibhav Tiwari</h1>
+<h3 align="center">Full-Stack Developer • AI Enthusiast • Computer Science Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=how-vaibhav&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  Building secure, scalable systems and intelligent web applications.
 </p>
 
-
-
----
-
-### 🔗 Connect with Me:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/how-vaibhav/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<p align="center">
+  <a href="https://github.com/how-vaibhav">
+    <img src="https://img.shields.io/github/followers/how-vaibhav?label=Follow&logo=github&style=flat-square" />
   </a>
-  <a href="https://instagram.com/how_vaibhav" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/how-vaibhav/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square" />
   </a>
-  <a href="https://www.youtube.com/@how-vaibhav" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  <a href="https://www.youtube.com/@how-vaibhav">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=flat-square" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools:
+## 👨‍💻 About Me
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="40" height="40" alt="Bootstrap"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="TailwindCSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
- <img src="https://cdn.simpleicons.org/express/2b71f4" width="40" height="40" alt="Express"/>
+I am a Computer Science student focused on building **real-world, production-ready systems** — not just academic projects.
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+My work spans:
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-<img src="https://cdn.simpleicons.org/markdown/2b71f4" width="40" height="40" alt="Markdown"/>
+- 🏛 Government-compliant digital platforms  
+- 🧠 AI-powered learning systems  
+- 🔐 Secure authentication & RBAC architectures  
+- 📄 QR + PDF generation workflows  
+- 📊 Analytics dashboards with modern UI/UX  
+- ⚙️ Database design with Row-Level Security  
 
-
-</p>
+I enjoy designing structured systems that combine **clarity, scalability, and security**.
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
+
+### 🏛 eMineral Pass  
+A government-compliant mineral transportation authorization system built with **Next.js + Supabase**.  
+Includes QR verification, secure PDF generation, RBAC, and analytics dashboard.
+
+**Highlights:**
+- JWT-based authentication with role separation  
+- QR-based public verification system  
+- Supabase PostgreSQL with RLS  
+- Government-style PDF document generation  
+
+---
+
+### 🏛 GovAid  
+A Django-powered government schemes portal built for a hackathon and later evolved into a feature-rich platform.
+
+**Highlights:**
+- Role-based access (Citizen / Employee / Admin)  
+- Encrypted Aadhaar storage  
+- Smart eligibility matching  
+- Advanced search & scheme comparison system  
+
+---
+
+### 🧠 Cerevia  
+An AI-powered learning platform designed for serious exam preparation.
+
+**Highlights:**
+- Google Gemini AI integration  
+- Adaptive quiz generation  
+- AI study planner  
+- Secure Supabase auth with middleware session handling  
+- Production-ready deployment on Vercel  
+
+---
+
+### 📚 Data Structures & Algorithms  
+Structured topic-wise DSA repository focused on strengthening problem-solving depth and interview preparation.
+
+---
+
+## 🛠 Technical Stack
+
+### 💻 Frontend
+Next.js • React • TypeScript • Tailwind CSS • Framer Motion  
+
+### 🗄 Backend & Databases
+Node.js • Express • Django • Supabase • PostgreSQL • MySQL  
+
+### 🔐 Security & Architecture
+JWT Authentication • Role-Based Access Control • Row-Level Security • Secure Session Handling  
+
+### 🧠 AI & Integrations
+Google Gemini API • REST APIs • PDF & QR generation workflows  
+
+### ⚙️ Tools
+Git • Docker • Linux • VS Code  
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=how-vaibhav&show_icons=true&theme=github_dark&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=how-vaibhav&layout=compact&theme=github_dark&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=how-vaibhav&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=how-vaibhav&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </div>
 
----
-
-### 🔥 Contribution Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=how-vaibhav&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=how-vaibhav&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
 
-### 🚀 Top Contributed Repositories
+## 🎯 Current Focus
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=how-vaibhav&limit=5&theme=github_dark&combine_all_yearly_contributions=true" alt="Top Contributions" />
-</p>
+- Strengthening system design fundamentals  
+- Advanced backend architecture  
+- Clean database schema modeling  
+- Deep DSA practice  
+- Building AI-integrated production systems  
 
 ---
 
-> 🧠 *"Driven by curiosity, on a journey of perpetual growth, committed to turning complex challenges into elegant, impactful solutions."*
+<p align="center">
+  <i>“Engineering clarity into complexity.”</i>
+</p>
