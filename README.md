@@ -19,6 +19,32 @@
   </a>
 </p>
 
+<!-- Reddit Connect Badge -->
+<a href="https://www.reddit.com/u/how_vaibhav/s/Ce9FHMJEsR" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Reddit-Connect-FF4500?logo=reddit&logoColor=white&style=flat-square" alt="Reddit Profile" />
+</a>
+
+<!-- Discord Connect Badge -->
+<a href="https://discord.com/users/how_vaibhav" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Discord-Connect-5865F2?logo=discord&logoColor=white&style=flat-square" alt="Discord Profile" />
+</a>
+
+<!-- Picsart Connect Badge -->
+<a href="https://picsart.com/u/how_vaibhav" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Picsart-Profile-E91E63?logo=picsart&logoColor=white&style=flat-square" alt="Picsart Profile" />
+</a>
+
+<!-- Spotify Connect Badge -->
+<a href="https://open.spotify.com/user/31zxexzu5dbrjnl6ktaxgry2xnry?si=6qk12aiOQh-Awcygs3_-yA" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Spotify-Listen-1DB954?logo=spotify&logoColor=white&style=flat-square" alt="Spotify Profile" />
+</a>
+
+<!-- Facebook Connect Badge -->
+<a href="https://www.facebook.com/share/16eZ57s7kU/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?logo=facebook&logoColor=white&style=flat-square" alt="Facebook Profile" />
+</a>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=how-vaibhav&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
