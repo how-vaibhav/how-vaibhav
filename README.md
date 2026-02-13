@@ -19,30 +19,6 @@
   </a>
 </p>
 
-<!-- Reddit Connect Badge -->
-<a href="https://www.reddit.com/u/how_vaibhav/s/Ce9FHMJEsR" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Reddit-Connect-FF4500?logo=reddit&logoColor=white&style=flat-square" alt="Reddit Profile" />
-</a>
-
-<!-- Discord Connect Badge -->
-<a href="https://discord.com/users/how_vaibhav" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Discord-Connect-5865F2?logo=discord&logoColor=white&style=flat-square" alt="Discord Profile" />
-</a>
-
-<!-- Picsart Connect Badge -->
-<a href="https://picsart.com/u/how_vaibhav" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Picsart-Profile-E91E63?logo=picsart&logoColor=white&style=flat-square" alt="Picsart Profile" />
-</a>
-
-<!-- Spotify Connect Badge -->
-<a href="https://open.spotify.com/user/31zxexzu5dbrjnl6ktaxgry2xnry?si=6qk12aiOQh-Awcygs3_-yA" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Spotify-Listen-1DB954?logo=spotify&logoColor=white&style=flat-square" alt="Spotify Profile" />
-</a>
-
-<!-- Facebook Connect Badge -->
-<a href="https://www.facebook.com/share/16eZ57s7kU/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?logo=facebook&logoColor=white&style=flat-square" alt="Facebook Profile" />
-</a>
 
 
 
@@ -66,6 +42,31 @@
   <a href="https://www.youtube.com/@how-vaibhav" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
+  <!-- Reddit -->
+<a href="https://www.reddit.com/u/how_vaibhav/s/Ce9FHMJEsR" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Reddit" height="30" width="40" />
+</a>
+
+<!-- Discord -->
+<a href="https://discord.com/users/how_vaibhav" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+</a>
+
+<!-- Picsart -->
+<a href="https://picsart.com/u/how_vaibhav" target="_blank">
+  <img align="center" src="https://cdn.simpleicons.org/picsart/E91E63" alt="Picsart" height="30" width="40" />
+</a>
+
+<!-- Spotify -->
+<a href="https://open.spotify.com/user/31zxexzu5dbrjnl6ktaxgry2xnry?si=6qk12aiOQh-Awcygs3_-yA" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="Spotify" height="30" width="40" />
+</a>
+
+<!-- Facebook -->
+<a href="https://www.facebook.com/share/16eZ57s7kU/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+</a>
+
 </p>
 
 ---
