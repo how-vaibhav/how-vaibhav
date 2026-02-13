@@ -44,27 +44,42 @@
   </a>
   <!-- Reddit -->
 <a href="https://www.reddit.com/u/how_vaibhav/s/Ce9FHMJEsR" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Reddit" height="30" width="40" />
+  <img align="center"
+       src="https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-180x180.png"
+       alt="Reddit"
+       height="35" width="35" />
 </a>
 
 <!-- Discord -->
 <a href="https://discord.com/users/how_vaibhav" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  <img align="center"
+       src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6cc0b51b6f52e6f5c0_Icon.svg"
+       alt="Discord"
+       height="35" width="35" />
 </a>
 
 <!-- Picsart -->
 <a href="https://picsart.com/u/how_vaibhav" target="_blank">
-  <img align="center" src="https://cdn.simpleicons.org/picsart/E91E63" alt="Picsart" height="30" width="40" />
+  <img align="center"
+       src="https://static.picsart.com/webstatic/images/meta/apple-touch-icon.png"
+       alt="Picsart"
+       height="35" width="35" />
 </a>
 
 <!-- Spotify -->
 <a href="https://open.spotify.com/user/31zxexzu5dbrjnl6ktaxgry2xnry?si=6qk12aiOQh-Awcygs3_-yA" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="Spotify" height="30" width="40" />
+  <img align="center"
+       src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Green.png"
+       alt="Spotify"
+       height="35" width="35" />
 </a>
 
 <!-- Facebook -->
 <a href="https://www.facebook.com/share/16eZ57s7kU/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  <img align="center"
+       src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico"
+       alt="Facebook"
+       height="35" width="35" />
 </a>
 
 </p>
