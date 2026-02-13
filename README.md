@@ -44,43 +44,44 @@
   </a>
   <!-- Reddit -->
 <a href="https://www.reddit.com/u/how_vaibhav/s/Ce9FHMJEsR" target="_blank">
-  <img align="center"
-       src="https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-180x180.png"
-       alt="Reddit"
+  <img align="center" 
+       src="https://cdn.simpleicons.org/reddit/FF4500" 
+       alt="Reddit" 
        height="35" width="35" />
 </a>
 
 <!-- Discord -->
 <a href="https://discord.com/users/how_vaibhav" target="_blank">
-  <img align="center"
-       src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6cc0b51b6f52e6f5c0_Icon.svg"
-       alt="Discord"
+  <img align="center" 
+       src="https://cdn.simpleicons.org/discord/5865F2" 
+       alt="Discord" 
        height="35" width="35" />
 </a>
 
 <!-- Picsart -->
 <a href="https://picsart.com/u/how_vaibhav" target="_blank">
-  <img align="center"
-       src="https://static.picsart.com/webstatic/images/meta/apple-touch-icon.png"
-       alt="Picsart"
+  <img align="center" 
+       src="https://cdn.simpleicons.org/picsart/E91E63" 
+       alt="Picsart" 
        height="35" width="35" />
 </a>
 
 <!-- Spotify -->
 <a href="https://open.spotify.com/user/31zxexzu5dbrjnl6ktaxgry2xnry?si=6qk12aiOQh-Awcygs3_-yA" target="_blank">
-  <img align="center"
-       src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Green.png"
-       alt="Spotify"
+  <img align="center" 
+       src="https://cdn.simpleicons.org/spotify/1DB954" 
+       alt="Spotify" 
        height="35" width="35" />
 </a>
 
 <!-- Facebook -->
 <a href="https://www.facebook.com/share/16eZ57s7kU/" target="_blank">
-  <img align="center"
-       src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico"
-       alt="Facebook"
+  <img align="center" 
+       src="https://cdn.simpleicons.org/facebook/1877F2" 
+       alt="Facebook" 
        height="35" width="35" />
 </a>
+
 
 </p>
 
