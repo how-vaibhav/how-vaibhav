@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone 👋, I'm Vaibhav Tiwari</h1>
+<h1 align="center">Hey Everyone , I'm Vaibhav Tiwari</h1>
 
 <h3 align="center">🚀 A passionate CSE student from India</h3>
 
