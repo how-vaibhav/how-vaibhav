@@ -19,70 +19,46 @@
   </a>
 </p>
 
-
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=how-vaibhav&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
-
 
 ---
 
 ### 🔗 Connect with Me:
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/how-vaibhav/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" />
   </a>
+  &nbsp;
   <a href="https://instagram.com/how_vaibhav" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="35" />
   </a>
+  &nbsp;
   <a href="https://www.youtube.com/@how-vaibhav" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="35" width="35" />
   </a>
-  <!-- Reddit -->
-<a href="https://www.reddit.com/u/how_vaibhav/s/Ce9FHMJEsR" target="_blank">
-  <img align="center" 
-       src="https://cdn.simpleicons.org/reddit/FF4500" 
-       alt="Reddit" 
-       height="35" width="35" />
-</a>
-
-<!-- Discord -->
-<a href="https://discord.com/users/how_vaibhav" target="_blank">
-  <img align="center" 
-       src="https://cdn.simpleicons.org/discord/5865F2" 
-       alt="Discord" 
-       height="35" width="35" />
-</a>
-
-<!-- Picsart -->
-<a href="https://picsart.com/u/how_vaibhav" target="_blank">
-  <img align="center" 
-       src="https://cdn.simpleicons.org/picsart/E91E63" 
-       alt="Picsart" 
-       height="35" width="35" />
-</a>
-
-<!-- Spotify -->
-<a href="https://open.spotify.com/user/31zxexzu5dbrjnl6ktaxgry2xnry?si=6qk12aiOQh-Awcygs3_-yA" target="_blank">
-  <img align="center" 
-       src="https://cdn.simpleicons.org/spotify/1DB954" 
-       alt="Spotify" 
-       height="35" width="35" />
-</a>
-
-<!-- Facebook -->
-<a href="https://www.facebook.com/share/16eZ57s7kU/" target="_blank">
-  <img align="center" 
-       src="https://cdn.simpleicons.org/facebook/1877F2" 
-       alt="Facebook" 
-       height="35" width="35" />
-</a>
-
-
+  &nbsp;
+  <a href="https://www.reddit.com/u/how_vaibhav/s/Ce9FHMJEsR" target="_blank">
+    <img src="https://cdn.simpleicons.org/reddit/FF4500" alt="Reddit" height="35" width="35" />
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/how_vaibhav" target="_blank">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" height="35" width="35" />
+  </a>
+  &nbsp;
+  <a href="https://picsart.com/u/how_vaibhav" target="_blank">
+    <img src="https://cdn.simpleicons.org/picsart/E91E63" alt="Picsart" height="35" width="35" />
+  </a>
+  &nbsp;
+  <a href="https://open.spotify.com/user/31zxexzu5dbrjnl6ktaxgry2xnry?si=6qk12aiOQh-Awcygs3_-yA" target="_blank">
+    <img src="https://cdn.simpleicons.org/spotify/1DB954" alt="Spotify" height="35" width="35" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/share/16eZ57s7kU/" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" height="35" width="35" />
+  </a>
 </p>
 
 ---
@@ -121,15 +97,15 @@
 
 </p>
 
-
-
-
 ---
 
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=how-vaibhav&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=how-vaibhav&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
 </p>
 
 ---
@@ -138,13 +114,11 @@
 
 <div align="center">
 
-  <!-- Snake animation — dark theme (shown in dark mode) -->
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/how-vaibhav/how-vaibhav/output/github-contribution-grid-snake-dark.svg"
     />
-    <!-- Snake animation — light theme (shown in light mode) -->
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/how-vaibhav/how-vaibhav/output/github-contribution-grid-snake.svg"
@@ -160,6 +134,4 @@
 
 ---
 
-
-
->  *"Driven by curiosity, on a journey of perpetual growth, committed to turning complex challenges into elegant, impactful solutions."*
+> *"Driven by curiosity, on a journey of perpetual growth, committed to turning complex challenges into elegant, impactful solutions."*
