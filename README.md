@@ -134,12 +134,32 @@
 
 ---
 
-### 🚀 Top Contributed Repositories
+### 🐍 Contributions in the Last Year
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=how-vaibhav&limit=5&theme=github_dark&combine_all_yearly_contributions=true" alt="Top Contributions" />
-</p>
+<div align="center">
+
+  <!-- Snake animation — dark theme (shown in dark mode) -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/how-vaibhav/how-vaibhav/output/github-contribution-grid-snake-dark.svg"
+    />
+    <!-- Snake animation — light theme (shown in light mode) -->
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/how-vaibhav/how-vaibhav/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake Animation"
+      src="https://raw.githubusercontent.com/how-vaibhav/how-vaibhav/output/github-contribution-grid-snake-dark.svg"
+      width="100%"
+    />
+  </picture>
+
+</div>
 
 ---
 
-> 🧠 *"Driven by curiosity, on a journey of perpetual growth, committed to turning complex challenges into elegant, impactful solutions."*
+
+
+>  *"Driven by curiosity, on a journey of perpetual growth, committed to turning complex challenges into elegant, impactful solutions."*
