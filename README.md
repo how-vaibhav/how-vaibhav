@@ -57,6 +57,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python" title="Python"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++" title="C++"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="42" height="42" alt="Shell" title="Shell / Bash"/>
 </p>
 
 <!-- ── Frameworks & Databases ────────────────────────────────────────── -->
@@ -99,8 +101,22 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=how-vaibhav&theme=github-dark-blue&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=how-vaibhav&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D"
     alt="GitHub Streak Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=how-vaibhav&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"
+    alt="GitHub Stats"
+    height="165"
+  />
+  &nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=how-vaibhav&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
+    alt="Top Languages"
+    height="165"
   />
 </p>
 
