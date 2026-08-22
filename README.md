@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/how-vaibhav/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" />
   </a>
- 
+   &nbsp;
   <a href="https://instagram.com/how_vaibhav" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="35" />
   </a>
