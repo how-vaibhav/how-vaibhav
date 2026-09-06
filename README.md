@@ -1,7 +1,7 @@
 <h2 align="center"><code>console.log("Hey, I'm Vaibhav!")</code></h2>
 
 <p align="center">
-  A <b>3rd-year CSE student</b> currently on the lookout for <b>placement opportunities</b>, with a strong passion for <b>Web Development</b> and <b>Machine Learning</b>. I balance clean <b>code</b> with clean <b>design</b> and love turning half-baked ideas into things that actually work — and look good doing it.
+  A <b>3rd-year CSE student</b> currently on the lookout for <b>placement opportunities</b>, with a strong passion for <b>Web Development</b> . I balance clean <b>code</b> with clean <b>design</b> and love turning half-baked ideas into things that actually work — and look good doing it.
 </p>
 
 <p align="center">
@@ -38,9 +38,7 @@
   </a>
 </p>
 
-<br />
-
-### Tech Stack
+### 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white" />
@@ -57,9 +55,7 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
 </p>
 
-<br />
-
-### GitHub Streak
+### 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓻𝓮𝓪𝓴
 
 <p align="center">
   <picture>
