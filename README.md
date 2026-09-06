@@ -33,10 +33,7 @@
     <img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" height="35" width="35" />
   </a>
   &nbsp;
-  <a href="https://open.spotify.com/user/31zxexzu5dbrjnl6ktaxgry2xnry?si=6qk12aiOQh-Awcygs3_-yA" target="_blank">
-    <img src="https://cdn.simpleicons.org/spotify/1DB954" alt="Spotify" height="35" width="35" />
-  </a>
-  &nbsp;
+  
   <a href="https://www.facebook.com/share/16eZ57s7kU/" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" height="35" width="35" />
   </a>
