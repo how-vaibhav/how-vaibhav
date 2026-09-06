@@ -2,15 +2,17 @@
 
 <h3 align="center"> A passionate CSE student from India</h3>
 
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=how-vaibhav&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  &nbsp;
+  <a href="https://howvaibhav.in" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
 
-###Connect with Me:
+### Connect with Me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/how-vaibhav/" target="_blank">
@@ -40,7 +42,7 @@
 </p>
 
 
-###Tech Stack
+### Tech Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
