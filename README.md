@@ -1,6 +1,8 @@
-<h1 align="center">Hey Everyone , I'm Vaibhav Tiwari</h1>
+<h2 align="center"><code>console.log("Hey, I'm Vaibhav!")</code></h2>
 
-<h3 align="center"> A passionate CSE student from India</h3>
+<p align="center">
+  A <b>3rd-year CSE student</b> currently on the lookout for <b>placement opportunities</b>, with a strong passion for <b>Web Development</b> and <b>Machine Learning</b>. I balance clean <b>code</b> with clean <b>design</b> and love turning half-baked ideas into things that actually work — and look good doing it.
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=how-vaibhav&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -10,15 +12,11 @@
   </a>
 </p>
 
----
-
-### Connect with Me:
-
 <p align="center">
   <a href="https://www.linkedin.com/in/how-vaibhav/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" />
   </a>
-   &nbsp;
+  &nbsp;
   <a href="https://instagram.com/how_vaibhav" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="35" />
   </a>
@@ -35,29 +33,50 @@
     <img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" height="35" width="35" />
   </a>
   &nbsp;
-  
   <a href="https://www.facebook.com/share/16eZ57s7kU/" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" height="35" width="35" />
   </a>
 </p>
 
+<br />
 
 ### Tech Stack
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
-### Contributions in the Last Year
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+</p>
+
+<br />
+
+### GitHub Streak
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com/?user=how-vaibhav&theme=dark&hide_border=true"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://streak-stats.demolab.com/?user=how-vaibhav&theme=default&hide_border=true"
+    />
+    <img
+      alt="GitHub Streak Stats"
+      src="https://streak-stats.demolab.com/?user=how-vaibhav&theme=dark&hide_border=true"
+    />
+  </picture>
+</p>
 <div align="center">
   <picture>
     <source
