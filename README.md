@@ -10,7 +10,7 @@
 
 ---
 
-### 🔗 Connect with Me:
+###Connect with Me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/how-vaibhav/" target="_blank">
@@ -40,8 +40,7 @@
 </p>
 
 
-### Tech Stack
-
+###Tech Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
@@ -57,9 +56,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
 ### Contributions in the Last Year
-
 <div align="center">
-
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -75,5 +72,4 @@
       width="100%"
     />
   </picture>
-
 </div>
